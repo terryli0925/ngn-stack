@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi
+END
+libtinyWRAP.so
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi/libtinyWRAP.so
+END
+libplugin_audio_opensles.so
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi/libplugin_audio_opensles.so
+END

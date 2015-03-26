@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi-v7a
+END
+libutils_armv5te.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/561/branches/2.0/android-ngn-stack/libs/armeabi-v7a/libutils_armv5te.so
+END
+libplugin_audio_opensles.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi-v7a/libplugin_audio_opensles.so
+END
+libtinyWRAP_neon.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi-v7a/libtinyWRAP_neon.so
+END
+libtinyWRAP.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/569/branches/2.0/android-ngn-stack/libs/armeabi-v7a/libtinyWRAP.so
+END
